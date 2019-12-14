@@ -1,3 +1,13 @@
+//////////////////////////////////////////////////
+// https://github.com/trpowerr/hw7p2.git/////////
+// ссылка на второй пункт из задания, нет возможности редачить отправленное задание ((
+
+
+
+
+
+
+
 const results = [
   { type: 'Bowman', health: 100, level: 1, attack: 25, defence: 25 },
   { type: 'Swordsman', health: 100, level: 1, attack: 40, defence: 10 },
